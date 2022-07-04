@@ -11,15 +11,16 @@ p{
 .orange-color{
     color: orange;
 }
-.d-flex{
+section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 100%;
     padding-left: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 }
 .link-button{
     text-decoration: none;
@@ -32,4 +33,12 @@ p{
 .top-banner{
     background-image: url(./images/images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-bg{
+    background-image: url(./images/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#pera{
+    padding-right: 140px;
 }
